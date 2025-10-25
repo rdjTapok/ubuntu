@@ -6,7 +6,7 @@
 
 ```bash
 # Скачайте скрипт
-wget https://raw.githubusercontent.com/yourusername/yourrepo/main/setup-vpn-ftp.sh
+wget https://raw.githubusercontent.com/rdjtapok/ubuntu/main/setup-vpn-ftp.sh
 
 # Дайте права на выполнение
 chmod +x setup-vpn-ftp.sh
